@@ -8,7 +8,7 @@
         controller.oldPassword = '123456';
         controller.newPassword = 'qwerty1'; 
         controller.verifyNewPassword = 'qwerty1';                
-        These are changes from dev2
+        //These are changes from dev2
         System.assertEquals(controller.changePassword(),null);                           
     }    
 }
