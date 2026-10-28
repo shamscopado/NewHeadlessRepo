@@ -48,12 +48,10 @@ $RECYCLE.BIN/
 **/venv/
 
 settings.json
-.agentia/config.user.json
-.agentia/idex
-.agentia/apex.tests.*.json
+.agentia
 .agents
 .claude
 .cursor
 .agentia_quality_gates.cmd
 .agentia_quality_gates.sh
-.gitignore
+skills-lock.json
